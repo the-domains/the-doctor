@@ -1,0 +1,14 @@
+layout_spectrum: 0.4323538129683584
+typography_spectrum: 0.33937553549185395
+color:
+  brandStrength: 0.9731617281213403
+  lightness: 0.1643793371040374
+  saturation: 0.8169270167127252
+  rhythmicContrast: 0.20384556078352034
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: The Doctor
