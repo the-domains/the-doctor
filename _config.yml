@@ -1,4 +1,3 @@
-layout_spectrum: 0.4323538129683584
 typography_spectrum: 0.33937553549185395
 color:
   brandStrength: 0.9731617281213403
@@ -11,4 +10,9 @@ color:
     - '#ED4846'
     - '#DADADA'
     - '#A8A8A8'
+layout_spectrum: 0.4323538129683584
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4601771-2c37-4252-afc6-c8a601dacd4d.png
 name: The Doctor
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/073fea28-a784-411e-a2da-d4fcb5ae2fc6.png
